@@ -1,5 +1,14 @@
-# tgpcontrols
+## Config
+Label:
+![GitHub Logo](/Images/LabelConfig.png)
 
-This pod was created by TPGControls files (Copied from https://github.com/SwiftArchitect/TGPControls) and modified to accept negative numbers.
+Slider:
+![GitHub Logo](/Images/SliderConfig.png)
 
-To install: pod 'TGPControls', :git => 'https://github.com/faustocapptan/tgpcontrols'
+## Installation
+
+pod 'Capptan.EasySlider', :git => 'https://github.com/faustocapptan/Capptan.EasySlider'
+
+## Example
+
+[https://github.com/capptan/EasySliderExample](https://github.com/capptan/EasySliderExample)

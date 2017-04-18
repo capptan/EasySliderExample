@@ -16,5 +16,5 @@ target 'EasySliderExample' do
     inherit! :search_paths
     # Pods for testing
   end
-	pod 'Capptan.EasySlider', :git => 'https://github.com/faustocapptan/Capptan.EasySlider'
+	pod 'Capptan.EasySlider', :git => 'https://github.com/capptan/Capptan.EasySlider'
 end
